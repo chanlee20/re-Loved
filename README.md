@@ -1,6 +1,6 @@
 QR Code to download the app:
 <br>
-<img src="https://user-images.githubusercontent.com/70008295/236106512-bd0c0232-49c7-4c6c-b544-17d650575c52.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/70008295/236106512-bd0c0232-49c7-4c6c-b544-17d650575c52.png" width="150">
 
 ## When you check for the functionalities, 
 When you post/edit/delete posts/accounts.. please update the tab by visiting the tab again. For example, after uploading the post, try going to other tab and come back for the updates in the items list. 
