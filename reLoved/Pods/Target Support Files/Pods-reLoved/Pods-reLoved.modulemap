@@ -1,0 +1,6 @@
+framework module Pods_reLoved {
+  umbrella header "Pods-reLoved-umbrella.h"
+
+  export *
+  module * { export * }
+}

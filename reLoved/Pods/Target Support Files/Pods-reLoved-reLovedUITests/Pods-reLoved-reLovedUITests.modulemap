@@ -1,0 +1,6 @@
+framework module Pods_reLoved_reLovedUITests {
+  umbrella header "Pods-reLoved-reLovedUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
