@@ -1,5 +1,5 @@
 QR Code to download the app:
-![My_App (1)](https://user-images.githubusercontent.com/70008295/236106512-bd0c0232-49c7-4c6c-b544-17d650575c52.png)
+![My_App (1)](https://user-images.githubusercontent.com/70008295/236106512-bd0c0232-49c7-4c6c-b544-17d650575c52.png =250x250)
 
 
 ## When you check for the functionalities, 
