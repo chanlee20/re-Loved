@@ -1,4 +1,5 @@
 QR Code to download the app:
+<br>
 <img src="https://user-images.githubusercontent.com/70008295/236106512-bd0c0232-49c7-4c6c-b544-17d650575c52.png" width="250" height="250">
 
 ## When you check for the functionalities, 
