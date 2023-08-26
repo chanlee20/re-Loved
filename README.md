@@ -1,6 +1,7 @@
-QR Code to download the app:
+Search it on app store!
 <br>
-<img src="https://user-images.githubusercontent.com/70008295/236106512-bd0c0232-49c7-4c6c-b544-17d650575c52.png" width="150">
+<img width="1173" alt="Screenshot 2023-08-25 at 10 14 33 PM" src="https://github.com/chanlee20/re-Loved/assets/70008295/f6863885-56cc-4575-8d26-f5df9145a850">
+
 
 ## When you check for the functionalities, 
 When you post/edit/delete posts/accounts.. please update the tab by visiting the tab again. For example, after uploading the post, try going to other tab and come back for the updates in the items list. 
